@@ -1,0 +1,246 @@
+html,body{
+	top:0;
+	margin: 0 auto;
+}
+body{
+	width: 980px;
+	height: 1386px;
+	background-color: white;
+}
+html{
+	width: 100%;
+	background-color: yellow;
+}
+#top{
+	float: left;
+	margin-left: 44px;
+	width: 110px;
+	height: 61px;
+	background-color:rgb(213,93,92);
+}
+#web{
+	position: absolute;
+	top:40px;
+}
+#web>span{
+	font-size: 12px;
+	color: #ffffff;
+	font-family:"黑体";
+}
+#time{
+	width: 110px;
+	height: 61px;
+	float: right;
+}
+#span{
+	margin-top: 40px;
+	width: 110px;
+	height: 12px;
+}
+#span>span{
+	margin-left: 24px;
+	font-size: 12px;
+	color: #d45d5c;
+	font-family:"黑体";
+}
+#line1{
+	position: absolute;
+	top:61px;
+	background-color:#938e8c;
+	width: 892px;
+	height: 2px;
+	margin-left: 44px;
+}
+#pic{
+	background: url(ad.png);
+	position: absolute;
+	margin-left: 44px;
+	top:104px;
+	width:641px;
+	height: 301px;
+}
+#pic1{
+	background-color: rgba(117,184,107,0.5);
+	position: absolute;
+	margin-left: 44px;
+	top:104px;
+	width:191px;
+	height: 301px;
+}
+#pic2{
+	background-color: rgba(255,0,102,0.2);
+	position: absolute;
+	margin-left: 494px;
+	top:104px;
+	width:191px;
+	height: 301px;
+}
+#divwhat{
+	position: absolute;
+	top: 450px;
+	margin-left: 44px;
+}
+#divwhen{
+	position: absolute;
+	top: 450px;
+	margin-left: 274px;
+}
+#divhow{
+	position: absolute;
+	top: 450px;
+	margin-left: 504px;
+}
+#line2{
+	background-color: #cc8091;
+	position: absolute;
+	width: 203px;
+	height: 2px;
+	top:104px;
+	margin-left: 733px;
+}
+#about{
+	position: absolute;
+	top:84px;
+	margin-left: 733px;
+}
+#technologe{
+	position: absolute;
+	top:124px;
+	margin-left: 733px;
+}
+#pre1{
+	position: absolute;
+	top:174px;
+	margin-left: 733px;
+}
+#pre2{
+	position: absolute;
+	top:174px;
+	margin-left: 713px;
+}
+#d32{
+	position: absolute;
+	top:344px;
+	margin-left: 733px;
+}
+#css1{
+	position: absolute;
+	top:344px;
+	margin-left: 813px;
+}
+#css2{
+	position: absolute;
+	top:374px;
+	margin-left: 813px;
+}
+
+#the{
+	position:absolute;
+	top:600px;
+	margin-left: 44px;
+}
+#line3{
+	position: absolute;
+	top:790px;
+	width: 415px;
+	height: 2px;
+	background-color: #11456b;
+	margin-left: 44px;
+
+}
+#bottomleft{
+	position: absolute;
+	top:800px;
+	margin-left: 44px;
+	width: 415px;
+}
+#pic3{
+	background: url(ad2.jpg);
+	position: absolute;
+	margin-left:480px; 
+	top: 600px;
+	width: 458px;
+	height: 275px;
+}
+#pic3inside{
+	background-color: rgba(39,40,34,0.5);
+	position: absolute;
+	margin-left: 480px;
+	top:815px;
+	width:458px;
+	height: 61px;
+}
+#pic3inside>hr{
+	position: absolute;
+	left: 10%;
+}
+#pic3inside>p{
+	position: absolute;
+	left: 12%;
+	top:-25%;
+}
+#bottomright{
+	background-color: rgb(238,238,214);
+	position: absolute;
+	margin-left:480px; 
+	top: 900px;
+	width: 458px;
+	height: 318px;
+}
+#bottomright>p{
+	position: absolute;
+	left: 10%;
+
+
+}
+#bottominside{
+	background-color: rgb(213,93,92);
+	position: absolute;
+	margin-left:480px; 
+	top: 1058px;
+	width: 260px;
+	height: 160px;
+}
+#bp1{
+	position: absolute;
+	top: -60%;
+}
+#bottominside>hr{
+	position: absolute;
+	left: 25%;
+	top: 25%;
+}
+#bp2{
+	position: absolute;
+	left: 30%;
+	top: 15%;
+}
+#bp3{
+	position: absolute;
+	left: 30%;
+	top: 55%;
+}
+#bottominside1{
+	position: absolute;
+	margin-left:741px; 
+	top: 1058px;
+	width: 190px;
+	height: 160px;
+}
+#foot{
+	background-color: #938e8c;
+	width: 892px;
+	height:1px;
+	position:absolute;
+	top: 1258px;
+	margin-left:44px;
+}
+#footweb{
+	position:absolute;
+	top: 1258px;
+	margin-left:850px;
+	color: rgb(213,93,92);
+	font-size: 12px;
+	font-family: 黑体;
+
+}
